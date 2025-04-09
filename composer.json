@@ -4,7 +4,7 @@
     "description": "FrontendConfiguratorGui module",
     "license": "proprietary",
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.2",
         "spryker-demo/frontend-configurator": "^1.0.0",
         "spryker/config": "^3.5.2",
         "spryker/file-system": "^2.0.0",
